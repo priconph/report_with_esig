@@ -1,0 +1,1 @@
+LCM requests to include the email address of approvers who previously approved/disapprove the request.

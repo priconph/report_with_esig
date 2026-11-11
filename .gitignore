@@ -1,0 +1,37 @@
+# Generated / uploaded data folders (tens of thousands of large files)
+/uploaded_report/
+/uploaded_attachment/
+
+# Large binary / office documents
+*.xls
+*.xlsx
+*.xlsm
+*.xlsb
+*.csv
+*.pdf
+*.ppt
+*.pptx
+*.doc
+*.docx
+
+# Archives
+*.zip
+*.rar
+*.7z
+*.tar
+*.gz
+
+# Database dumps
+*.sql
+*.bak
+
+# Logs and temp files
+*.log
+~$*
+*.tmp
+Thumbs.db
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
